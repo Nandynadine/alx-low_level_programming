@@ -3,8 +3,10 @@
 #include <stdio.h>
 
 /**
- *main - Entry point
- *Return: Always 0 (Success)
+ *main- Prints whether random number is
+ *      positive, zero or negative.
+ *
+ *Return: Always 0.
  */
 
 int main(void)
@@ -24,7 +26,7 @@ int main(void)
 		printf("%i is zero\n", n);
 	}
 
-	else if (n < 0)
+	else
 	{
 		printf("%i is negative\n", n);
 	}
