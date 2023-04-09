@@ -1,0 +1,3 @@
+- The bitwise operators are used to manipulate the bits of integral operands both signed and unsigned.
+- Unsigned integers are normally used with the bitwise operators.
+- Bitwise manipulations are machine dependent.
