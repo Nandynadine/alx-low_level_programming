@@ -1,0 +1,7 @@
+- File descriptors are numbers that uniquely identifie an open file in computer's memory
+- they are identified by non-negative integers such as 0 or 12.
+- Flags:
+	- O_RDONLY: Ready only.
+	- O_WRONLY: Write only.
+	- O_RDWR: Read and write.
+	- O_CREAT: Create file if it doesn't exist.
